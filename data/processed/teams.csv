@@ -1,0 +1,61 @@
+team,code,group,pot,confederation,is_host,elo,elo_source
+# ---- Group A ----
+Mexico,MEX,A,1,CONCACAF,True,1740,manual_april_2026
+South Africa,RSA,A,3,CAF,False,1620,manual_april_2026
+South Korea,KOR,A,2,AFC,False,1730,manual_april_2026
+Czech Republic,CZE,A,4,UEFA,False,1720,manual_april_2026
+# ---- Group B ----
+Canada,CAN,B,1,CONCACAF,True,1790,manual_april_2026
+Bosnia and Herzegovina,BIH,B,4,UEFA,False,1690,manual_april_2026
+Qatar,QAT,B,3,AFC,False,1530,manual_april_2026
+Switzerland,SUI,B,2,UEFA,False,1840,manual_april_2026
+# ---- Group C ----
+Brazil,BRA,C,1,CONMEBOL,False,2040,manual_april_2026
+Morocco,MAR,C,2,CAF,False,1860,manual_april_2026
+Haiti,HAI,C,4,CONCACAF,False,1420,manual_april_2026
+Scotland,SCO,C,3,UEFA,False,1770,manual_april_2026
+# ---- Group D ----
+United States,USA,D,1,CONCACAF,True,1790,manual_april_2026
+Paraguay,PAR,D,3,CONMEBOL,False,1680,manual_april_2026
+Australia,AUS,D,2,AFC,False,1700,manual_april_2026
+Turkey,TUR,D,4,UEFA,False,1790,manual_april_2026
+# ---- Group E ----
+Germany,GER,E,1,UEFA,False,1970,manual_april_2026
+Curacao,CUW,E,4,CONCACAF,False,1460,manual_april_2026
+Ivory Coast,CIV,E,3,CAF,False,1770,manual_april_2026
+Ecuador,ECU,E,2,CONMEBOL,False,1830,manual_april_2026
+# ---- Group F ----
+Netherlands,NED,F,1,UEFA,False,1990,manual_april_2026
+Japan,JPN,F,2,AFC,False,1830,manual_april_2026
+Sweden,SWE,F,4,UEFA,False,1800,manual_april_2026
+Tunisia,TUN,F,3,CAF,False,1660,manual_april_2026
+# ---- Group G ----
+Belgium,BEL,G,1,UEFA,False,1900,manual_april_2026
+Egypt,EGY,G,3,CAF,False,1720,manual_april_2026
+Iran,IRN,G,2,AFC,False,1780,manual_april_2026
+New Zealand,NZL,G,4,OFC,False,1520,manual_april_2026
+# ---- Group H ----
+Spain,ESP,H,1,UEFA,False,2130,manual_april_2026
+Cape Verde,CPV,H,4,CAF,False,1640,manual_april_2026
+Saudi Arabia,KSA,H,3,AFC,False,1650,manual_april_2026
+Uruguay,URU,H,2,CONMEBOL,False,1890,manual_april_2026
+# ---- Group I ----
+France,FRA,I,1,UEFA,False,2080,manual_april_2026
+Senegal,SEN,I,2,CAF,False,1780,manual_april_2026
+Iraq,IRQ,I,4,AFC,False,1580,manual_april_2026
+Norway,NOR,I,3,UEFA,False,1900,manual_april_2026
+# ---- Group J ----
+Argentina,ARG,J,1,CONMEBOL,False,2120,manual_april_2026
+Algeria,ALG,J,3,CAF,False,1720,manual_april_2026
+Austria,AUT,J,2,UEFA,False,1820,manual_april_2026
+Jordan,JOR,J,4,AFC,False,1560,manual_april_2026
+# ---- Group K ----
+Portugal,POR,K,1,UEFA,False,1980,manual_april_2026
+DR Congo,COD,K,4,CAF,False,1620,manual_april_2026
+Uzbekistan,UZB,K,3,AFC,False,1620,manual_april_2026
+Colombia,COL,K,2,CONMEBOL,False,1870,manual_april_2026
+# ---- Group L ----
+England,ENG,L,1,UEFA,False,2030,manual_april_2026
+Croatia,CRO,L,2,UEFA,False,1950,manual_april_2026
+Ghana,GHA,L,4,CAF,False,1700,manual_april_2026
+Panama,PAN,L,3,CONCACAF,False,1630,manual_april_2026
